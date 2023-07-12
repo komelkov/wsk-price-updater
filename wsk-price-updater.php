@@ -4,8 +4,8 @@ Plugin Name: Update Product Prices by WSK
 Description: Woocommerce plugin to update regular and sales prices in products.
 Version: 1.0
 Author: Pavel Komelkov
-Author URI:
-License:
+Author URI: https://github.com/komelkov
+License: GNU General Public License 3.0
 License URI: https://www.gnu.org/licenses/gpl-3.0.html
 Text Domain: wsk-update-prices
 Domain Path: /languages/
