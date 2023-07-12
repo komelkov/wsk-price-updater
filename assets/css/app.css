@@ -1,0 +1,14 @@
+#preloader {
+  display: grid;
+  place-content: center;
+  position: fixed;
+  inset: 0;
+  background: #8886;
+  z-index: 1;
+}
+#preloader.hide {
+  display: none;
+}
+.form-table tr:nth-child(2) {
+  display: none;
+}
